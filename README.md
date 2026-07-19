@@ -1,14 +1,14 @@
 # 🌐 Website Health Monitoring System
 
-A lightweight Linux-based website monitoring tool built using **Bash Shell Scripting** that continuously checks the health of multiple websites by monitoring **network connectivity**, **HTTP response status**, **response time**, and **service availability**.
+A lightweight Linux-based website monitoring tool built using Bash scripting that performs automated health checks for multiple websites. When scheduled with Cron, it can continuously monitor website availability, HTTP response status, response time, and service availability.
 
-The project automatically generates **log files**, **CSV reports**, and supports **Cron automation** for continuous website monitoring.
+The project automatically generates **log files**, **CSV reports**, and supports **Cron automation** for scheduled website health monitoring.
 
-Built as a Linux & Cybersecurity portfolio project demonstrating Bash scripting, Linux automation, networking, and monitoring concepts.
+Built as a Linux and Cybersecurity portfolio project to demonstrate Bash scripting, Linux automation, networking fundamentals, and system monitoring concepts.
 
 ---
 
-## 🚀 Project Features
+## 🚀 Features
 
 | Feature | Description |
 |---------|-------------|

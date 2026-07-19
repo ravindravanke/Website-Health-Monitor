@@ -65,7 +65,7 @@ Website-Health-Monitor/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/Website-Health-Monitor.git
+git clone https://github.com/ravindravanke/Website-Health-Monitor.git
 cd Website-Health-Monitor
 ```
 

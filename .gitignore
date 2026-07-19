@@ -1,0 +1,8 @@
+# Runtime generated files
+logs/*.log
+reports/*.csv
+cron.log
+
+# Keep empty folders
+!logs/.gitkeep
+!reports/.gitkeep

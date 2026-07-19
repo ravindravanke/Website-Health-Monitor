@@ -205,29 +205,33 @@ The generated CSV can be opened using Microsoft Excel, LibreOffice Calc, or Goog
 
 ## 📸 Screenshots
 
-### Terminal Output
+### Terminal Output (Part 1)
 
-```
-screenshots/terminal-output.png
-```
+![Terminal Output Part 1](screenshots/terminal-output-1.png)
+
+---
+
+### Terminal Output (Part 2)
+
+![Terminal Output Part 2](screenshots/terminal-output-2.png)
 
 ---
 
 ### Health Log
 
-```
-screenshots/health-log.png
-```
+![Health Log](screenshots/health-log.png)
 
 ---
 
 ### CSV Report
 
-```
-screenshots/csv-report.png
-```
+![CSV Report](screenshots/csv-report.png)
 
-> Add screenshots to the `screenshots` folder after capturing them.
+---
+
+### Cron Automation
+
+![Cron Automation](screenshots/cron-job.png)
 
 ---
 
